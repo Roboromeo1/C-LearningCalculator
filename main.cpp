@@ -2,7 +2,6 @@
 using std::string;
 using std::cout;
 using std::cin;
-using std::boolalpha;
 using std::endl;
 int menuOptionN;
 
